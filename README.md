@@ -1,0 +1,2 @@
+# Harry_Potter-Sorting_Game
+This Project is based on the "Sorting Ceremony" of Hogwarts-School of Wizarding &amp; Witchcraft. There are 7 questions. Every question contains 4 options, players have to press the number keys according to their choices.The theme of this project is based on J.K Rowling's " Harry Potter " series's "Sorting Ceremony". None of these characters are mine. All rights reserved by Warner bros. entertainment co. &amp; J.K Rowling.
